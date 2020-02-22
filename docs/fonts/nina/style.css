@@ -1,0 +1,10 @@
+@font-face {
+  font-family: "beispiel_font";
+  src: url('./webfont/ExecutiveGX.ttf') format('truetype');
+  font-weight: 0 1000;
+}
+
+#nina {
+  font-family: "beispiel_font";
+  font-variation-settings: "wght" 500;
+}
