@@ -1,0 +1,10 @@
+@font-face {
+  font-family: "beispiel_font";
+  src: url('./webfont/NeptunGX.ttf') format('truetype');
+  font-weight: 0 1000;
+}
+
+#cheyenne {
+  font-family: "beispiel_font";
+  font-variation-settings: "wght" 115;
+}
