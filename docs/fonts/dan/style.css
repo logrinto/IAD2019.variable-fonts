@@ -1,0 +1,10 @@
+@font-face {
+  font-family: "bang";
+  src: url(./webfont/bang-variable.woff2) format("woff2-variations");
+  font-weight: 0 1000;
+}
+
+#dan {
+  font-family: "bang";
+  font-variation-settings: "wght" 70;
+}
