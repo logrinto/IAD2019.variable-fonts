@@ -7,4 +7,16 @@
 #stefanos {
   font-family: "the_font_one";
   font-variation-settings: "wght" 500;
+  animation-name: animate-fit-stefanos;
+
+}
+
+
+@keyframes animate-fit-stefanos {
+  from {
+    font-variation-settings: "wght" 80;
+  }
+  to {
+    font-variation-settings: "wght" 200;
+  }
 }
