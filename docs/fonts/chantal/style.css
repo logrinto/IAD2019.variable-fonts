@@ -1,0 +1,10 @@
+@font-face {
+  font-family: "umaGX";
+  src: url('./webfont/UmaGX.ttf') format('truetype');
+  font-weight: 0 1000;
+}
+
+#chantal {
+  font-family: "UmaGX";
+  font-variation-settings: "wght" 500;
+}
