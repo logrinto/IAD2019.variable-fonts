@@ -5,6 +5,17 @@
 }
 
 #selina {
-  font-family: "beispiel_font";
+  font-family: "Meraki";
   font-variation-settings: "wght" 500;
+  animation-name: animate-fit-selina;
+}
+
+
+@keyframes animate-fit-selina {
+  from {
+    font-variation-settings: "wght" 4;
+  }
+  to {
+    font-variation-settings: "wght" 40;
+  }
 }
