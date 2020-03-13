@@ -4,7 +4,17 @@
   font-weight: 0 1000;
 }
 
+@keyframes animate-fit-bang {
+  from {
+    font-variation-settings: "wght" 0;
+  }
+  to {
+    font-variation-settings: "wght" 70;
+  }
+}
+
 #dan {
   font-family: "bang";
   font-variation-settings: "wght" 70;
+  animation-name: animate-fit-bang;
 }
