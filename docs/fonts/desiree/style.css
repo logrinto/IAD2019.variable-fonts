@@ -1,11 +1,11 @@
 @font-face {
-  font-family: "beispiel_font";
+  font-family: "FettePerleGX";
   src: url('./webfont/FettePerleGX.ttf') format('truetype');
   font-weight: 0 1000;
 }
 
 #desiree {
-  font-family: "beispiel_font";
+  font-family: "FettePerleGX";
   font-variation-settings: "wght" 500;
   animation-name: animate-fit-desiree;
 }
