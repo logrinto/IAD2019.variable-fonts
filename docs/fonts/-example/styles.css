@@ -1,10 +1,10 @@
 @font-face {
   font-family: "beispiel_font";
   src: url('./webfont/ScalerGX.ttf') format('truetype');
-  font-weight: 0 1000;
+  font-weight: 60 135;
 }
 
 #beispiel {
   font-family: "beispiel_font";
-  font-variation-settings: "wght" 500;
+  font-variation-settings: "wght" 135;
 }
