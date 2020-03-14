@@ -5,6 +5,7 @@
 }
 
 #nina {
-  font-family: "beispiel_font";
+  font-family: "ExecutiveGX";
+  src: url('./webfont/ExecutiveGX.ttf') format('truetype');
   font-variation-settings: "wght" 500;
 }
