@@ -1,0 +1,21 @@
+@font-face {
+  font-family: "BlueberryGX";
+  src: url('./webfont/BlueberryGX.ttf') format('truetype');
+  font-weight: 0 1000;
+}
+
+#dominique {
+  font-family: "BlueberryGX";
+  font-variation-settings: "wght" 500;
+  animation-name: animate-fit-dominique;
+}
+
+
+@keyframes animate-fit-dominique {
+  from {
+    font-variation-settings: "wght" 50;
+  }
+  to {
+    font-variation-settings: "wght" 200;
+  }
+}
